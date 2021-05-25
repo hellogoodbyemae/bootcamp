@@ -1,0 +1,20 @@
+{
+  "name": "weatherdest",
+  "version": "1.0.0",
+  "description": "get your weather for your destination",
+  "main": "weatherdest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "destination"
+  ],
+  "author": "stephen",
+  "license": "ISC",
+  "dependencies": {
+    "node-geocoder": "^3.27.0",
+    "weather-js": "^2.0.0",
+    "spoti": "1.1.0"
+  }
+}
